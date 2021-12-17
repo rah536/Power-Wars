@@ -1,0 +1,941 @@
+# depslib dependency file v1.0
+1637107302 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1637111430 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+
+1636566606 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+
+1637111362 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\include\stats_ataques_class.h
+	<cstring>
+
+1636323084 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\funciones.h
+
+1635609357 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\prototipos_clases.cpp
+
+1636223533 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\include\menu.h
+
+1636154583 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\src\menu.cpp
+	<string>
+	<string.h>
+	<iostream>
+	"Menu.h"
+
+1637105428 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\include\gameloop.h
+	"Pokemon_class.h"
+
+1637114228 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Utiles.h"
+
+1636222455 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\archivo.cpp
+	<iostream>
+
+1637107385 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\include\funciones.h
+	<windows.h>
+
+1637110465 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\src\funciones.cpp
+	<iostream>
+	"Funciones.h"
+
+1637111214 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\utiles.h
+
+1637112722 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_1_labo2\include\utiles.h
+
+1637865938 source:e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+
+1637375105 e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+
+1637866414 e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\include\stats_ataques_class.h
+	<cstring>
+
+1637879570 e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1637376638 e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\include\funciones.h
+
+1637097974 e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\jugador.h
+	<cstring>
+
+1637875960 source:e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\src\funciones.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+
+1637881050 source:e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1637878405 e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\include\utiles.h
+	"Pokemon_class.h"
+
+1637877345 source:e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+
+1637881087 e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+
+1637430170 source:e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\src\jugador.cpp
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+
+1637347063 source:e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\src\utiles.cpp
+	<iostream>
+	"Pokemon_class.h"
+
+1637347063 e:\documentos de facundo\programacion\c++\tp2_auxiliar\poke-wars-main1.3\src\utiles.cpp
+	<iostream>
+	"Pokemon_class.h"
+
+1637884081 source:c:\users\54116\downloads\poke-wars-main\poke-wars-main\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+
+1637884081 c:\users\54116\downloads\poke-wars-main\poke-wars-main\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638239264 c:\users\54116\downloads\poke-wars-main\poke-wars-main\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1637884081 c:\users\54116\downloads\poke-wars-main\poke-wars-main\include\stats_ataques_class.h
+	<cstring>
+
+1637884081 c:\users\54116\downloads\poke-wars-main\poke-wars-main\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+
+1637884081 c:\users\54116\downloads\poke-wars-main\poke-wars-main\include\funciones.h
+
+1637884081 source:c:\users\54116\downloads\poke-wars-main\poke-wars-main\src\funciones.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+
+1637884081 source:c:\users\54116\downloads\poke-wars-main\poke-wars-main\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1637884081 source:c:\users\54116\downloads\poke-wars-main\poke-wars-main\src\jugador.cpp
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+
+1637884081 c:\users\54116\downloads\poke-wars-main\poke-wars-main\include\utiles.h
+	"Pokemon_class.h"
+
+1637884081 source:c:\users\54116\downloads\poke-wars-main\poke-wars-main\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+
+1638240996 source:c:\users\54116\downloads\poke-wars-main\poke-wars-main\src\lideres.cpp
+	"Lideres.h"
+
+1638239953 c:\users\54116\downloads\poke-wars-main\poke-wars-main\include\lideres.h
+	<Jugador.h>
+
+1637884082 source:e:\poke-wars-main\src\funciones.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+
+1637884082 e:\poke-wars-main\include\funciones.h
+
+1638278894 e:\poke-wars-main\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+
+1638239266 e:\poke-wars-main\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1637884082 e:\poke-wars-main\include\stats_ataques_class.h
+	<cstring>
+
+1637884082 source:e:\poke-wars-main\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1637884082 e:\poke-wars-main\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638281030 source:e:\poke-wars-main\src\jugador.cpp
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+
+1637884082 e:\poke-wars-main\include\utiles.h
+	"Pokemon_class.h"
+
+1638324854 source:e:\poke-wars-main\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+
+1638322940 e:\poke-wars-main\include\lideres.h
+	<Jugador.h>
+
+1637884082 source:e:\poke-wars-main\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+
+1638325020 source:e:\poke-wars-main\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+
+1638462777 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+
+1638463280 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638463310 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1638463375 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\include\stats_ataques_class.h
+	<cstring>
+
+1638278894 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+
+1638401745 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\include\funciones.h
+
+1638462842 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\include\lideres.h
+	<Jugador.h>
+
+1638463183 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\src\funciones.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+
+1638462385 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1638379879 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\src\jugador.cpp
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+
+1638464341 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\include\utiles.h
+	"Pokemon_class.h"
+
+1638462823 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+
+1638462961 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\prototipo_2_final\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+
+1638565366 source:c:\users\r\desktop\pokewars\v 1.8\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+
+1638567795 c:\users\r\desktop\pokewars\v 1.8\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638456692 c:\users\r\desktop\pokewars\v 1.8\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1638456692 c:\users\r\desktop\pokewars\v 1.8\include\stats_ataques_class.h
+	<cstring>
+
+1638566433 c:\users\r\desktop\pokewars\v 1.8\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+	"Fecha.h"
+	"Hora.h"
+
+1638566892 c:\users\r\desktop\pokewars\v 1.8\include\funciones.h
+
+1638456692 c:\users\r\desktop\pokewars\v 1.8\include\lideres.h
+	<Jugador.h>
+
+1638566892 source:c:\users\r\desktop\pokewars\v 1.8\src\funciones.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+	<ctime>
+
+1638568224 source:c:\users\r\desktop\pokewars\v 1.8\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1638566563 source:c:\users\r\desktop\pokewars\v 1.8\src\jugador.cpp
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+
+1638456692 c:\users\r\desktop\pokewars\v 1.8\include\utiles.h
+	"Pokemon_class.h"
+
+1638456692 source:c:\users\r\desktop\pokewars\v 1.8\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+
+1638456692 source:c:\users\r\desktop\pokewars\v 1.8\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+
+1638566054 c:\users\r\desktop\pokewars\v 1.8\include\fecha.h
+
+1638566054 c:\users\r\desktop\pokewars\v 1.8\include\hora.h
+
+1638673092 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+
+1638654341 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638456692 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1638649428 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\stats_ataques_class.h
+	<cstring>
+
+1638671822 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+	"Fecha.h"
+	"Hora.h"
+
+1638651628 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\fecha.h
+
+1638651643 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\hora.h
+
+1638656814 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\funciones.h
+
+1638651694 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\lideres.h
+	<Jugador.h>
+
+1638669531 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\src\funciones.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+	<ctime>
+
+1638653632 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1638674947 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\src\jugador.cpp
+	<iomanip>
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+
+1638675727 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\include\utiles.h
+	"Pokemon_class.h"
+
+1638456692 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+
+1638669712 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\prototipo_1\v 1.8\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+
+1638669532 source:c:\users\54116\downloads\v1.9\src\funciones.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+	<ctime>
+
+1638656816 c:\users\54116\downloads\v1.9\include\funciones.h
+
+1638761705 c:\users\54116\downloads\v1.9\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+	"Fecha.h"
+	"Hora.h"
+
+1638456692 c:\users\54116\downloads\v1.9\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1638649430 c:\users\54116\downloads\v1.9\include\stats_ataques_class.h
+	<cstring>
+
+1638651630 c:\users\54116\downloads\v1.9\include\fecha.h
+
+1638651644 c:\users\54116\downloads\v1.9\include\hora.h
+
+1638653634 source:c:\users\54116\downloads\v1.9\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1638654342 c:\users\54116\downloads\v1.9\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638762090 source:c:\users\54116\downloads\v1.9\src\jugador.cpp
+	<iomanip>
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+
+1638675728 c:\users\54116\downloads\v1.9\include\utiles.h
+	"Pokemon_class.h"
+
+1638456692 source:c:\users\54116\downloads\v1.9\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+
+1638651696 c:\users\54116\downloads\v1.9\include\lideres.h
+	<Jugador.h>
+
+1638669714 source:c:\users\54116\downloads\v1.9\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+
+1638763444 source:c:\users\54116\downloads\v1.9\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+
+1638795602 source:c:\users\gastona\downloads\v2.0\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+	"rlutil.h"
+
+1638654342 c:\users\gastona\downloads\v2.0\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638456692 c:\users\gastona\downloads\v2.0\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1638649430 c:\users\gastona\downloads\v2.0\include\stats_ataques_class.h
+	<cstring>
+
+1638761705 c:\users\gastona\downloads\v2.0\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+	"Fecha.h"
+	"Hora.h"
+
+1638651630 c:\users\gastona\downloads\v2.0\include\fecha.h
+
+1638651644 c:\users\gastona\downloads\v2.0\include\hora.h
+
+1638656816 c:\users\gastona\downloads\v2.0\include\funciones.h
+
+1638651696 c:\users\gastona\downloads\v2.0\include\lideres.h
+	<Jugador.h>
+
+1638669532 source:c:\users\gastona\downloads\v2.0\src\funciones.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+	<ctime>
+
+1638804071 source:c:\users\gastona\downloads\v2.0\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+
+1638804297 source:c:\users\gastona\downloads\v2.0\src\jugador.cpp
+	<iomanip>
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+
+1638675728 c:\users\gastona\downloads\v2.0\include\utiles.h
+	"Pokemon_class.h"
+
+1638456692 source:c:\users\gastona\downloads\v2.0\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+
+1638795446 source:c:\users\gastona\downloads\v2.0\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+	"rlutil.h"
+
+1635299116 c:\users\gastona\downloads\v2.0\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1638840769 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\src\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+	<ctime>
+
+1638656816 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\funciones.h
+
+1638921962 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+	"Fecha.h"
+	"Hora.h"
+
+1638456692 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1638649430 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\stats_ataques_class.h
+	<cstring>
+
+1638651630 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\fecha.h
+
+1638651644 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\hora.h
+
+1638922114 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1638849924 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638921992 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\src\jugador.cpp
+	<iomanip>
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1638921477 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\utiles.h
+	"Pokemon_class.h"
+
+1638456692 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+
+1638651696 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\lideres.h
+	<Jugador.h>
+
+1638835011 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+	"rlutil.h"
+
+1635299116 c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1638918957 source:c:\users\facu\desktop\utn tup\laboratorio 2\tp_labo2\v2.0\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+	"rlutil.h"
+
+1639071769 source:c:\users\gastona\downloads\poke-wars-main\poke-wars-main\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+	"rlutil.h"
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\stats_ataques_class.h
+	<cstring>
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+	"Fecha.h"
+	"Hora.h"
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\fecha.h
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\hora.h
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\funciones.h
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\lideres.h
+	<Jugador.h>
+
+1638906416 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1638906416 source:c:\users\gastona\downloads\poke-wars-main\poke-wars-main\src\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+	<ctime>
+
+1639053086 source:c:\users\gastona\downloads\poke-wars-main\poke-wars-main\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1639063414 source:c:\users\gastona\downloads\poke-wars-main\poke-wars-main\src\jugador.cpp
+	<iomanip>
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1639065397 c:\users\gastona\downloads\poke-wars-main\poke-wars-main\include\utiles.h
+	"Pokemon_class.h"
+
+1639051218 source:c:\users\gastona\downloads\poke-wars-main\poke-wars-main\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+	"rlutil.h"
+
+1638906416 source:c:\users\gastona\downloads\poke-wars-main\poke-wars-main\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+	"rlutil.h"
+
+1639783226 source:c:\users\r\desktop\poke-wars_beta\main.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	<stdio.h>
+	"GameLoop.h"
+	"Funciones.h"
+	"Jugador.h"
+	"Lideres.h"
+	"rlutil.h"
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\gameloop.h
+	"Pokemon_class.h"
+	"Jugador.h"
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\pokemon_class.h
+	"Stats_Ataques_class.h"
+	<iostream>
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\stats_ataques_class.h
+	<cstring>
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\jugador.h
+	<cstring>
+	"Pokemon_class.h"
+	"Fecha.h"
+	"Hora.h"
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\fecha.h
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\hora.h
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\funciones.h
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\lideres.h
+	<Jugador.h>
+
+1638906416 c:\users\r\desktop\poke-wars_beta\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1638906416 source:c:\users\r\desktop\poke-wars_beta\src\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Funciones.h"
+	"Jugador.h"
+	<ctime>
+
+1639072707 source:c:\users\r\desktop\poke-wars_beta\src\gameloop.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Jugador.h"
+	"GameLoop.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1639063414 source:c:\users\r\desktop\poke-wars_beta\src\jugador.cpp
+	<iomanip>
+	<iostream>
+	"Pokemon_class.h"
+	"Jugador.h"
+	"Utiles.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1639065397 c:\users\r\desktop\poke-wars_beta\include\utiles.h
+	"Pokemon_class.h"
+
+1639051218 source:c:\users\r\desktop\poke-wars_beta\src\lideres.cpp
+	<iostream>
+	"Lideres.h"
+	"rlutil.h"
+
+1638906416 source:c:\users\r\desktop\poke-wars_beta\src\pokemon_class.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<iomanip>
+	"Pokemon_class.h"
+	"Stats_Ataques_class.h"
+	"rlutil.h"
+
